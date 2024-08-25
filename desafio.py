@@ -1,9 +1,9 @@
 menu = """
 
-[d] Depositar
-[s] Sacar
-[e] Extrato
-[q] Sair
+[d]/tDepositar
+[s]/tSacar
+[e]/tExtrato
+[q]/tSair
 
 => """
 
